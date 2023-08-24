@@ -4,7 +4,7 @@ Built a real-time stock market simulation using Python, basics of Kafka (Broker,
 # Technology Used
 Programming Language - Python
 
-Amazon Web Service (AWS)
+Amazon Web Services (AWS):
 S3 (Simple Storage Service)
 Athena
 Glue Crawler
