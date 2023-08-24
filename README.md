@@ -6,8 +6,14 @@ Programming Language - Python
 
 Amazon Web Services (AWS):
 S3 (Simple Storage Service)
+
 Athena
+
 Glue Crawler
+
 Glue Catalog
-EC2
+
+Amazon EC2
+
 Apache Kafka
+
